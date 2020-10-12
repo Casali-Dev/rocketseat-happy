@@ -10,7 +10,7 @@
 * [Setup](#setup)
 * [Status](#status)
 * [Inspiration](#inspiration)
-* [Contact](#contact)
+* [License](#license)
 
 ## 📌 General info
 This project has the objective of making a full aplication including it's frontend, backend and mobile version under a week, to be able to understand the full power of this stacks.

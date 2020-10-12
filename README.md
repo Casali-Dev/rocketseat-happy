@@ -5,12 +5,11 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Screenshots](#screenshots)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Status](#status)
-* [Inspiration](#inspiration)
-* [License](#license)
+* [Screenshots](#-screenshots)
+* [Technologies](#-technologies)
+* [Status](#-status)
+* [Inspiration](#-inspiration)
+* [License](#-license)
 
 ## 📌 General info
 This project has the objective of making a full aplication including it's frontend, backend and mobile version under a week, to be able to understand the full power of this stacks.

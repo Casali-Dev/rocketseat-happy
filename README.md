@@ -4,7 +4,7 @@
 > App to find orphanages in Porto Alegre, to visit and bring joy to the orphan childs.
 
 ## Table of contents
-* [General info](#general-info)
+* [General info](#-general-info)
 * [Screenshots](#-screenshots)
 * [Technologies](#-technologies)
 * [Status](#-status)

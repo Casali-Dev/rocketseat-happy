@@ -22,7 +22,7 @@ This project has the objective of making a full aplication including it's fronte
 _in progress_
 
 - [x] Day 1
-- [ ] Day 2
+- [x] Day 2
 - [ ] Day 3
 - [ ] Day 4
 - [ ] Day 5
